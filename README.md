@@ -84,30 +84,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=60&section=footer" />
 
-<style>
-  .social-icon:hover {
-    transform: translateY(-3px);
-    transition: transform 0.2s ease;
-  }
-  
-  details {
-    background: rgba(255,111,145,0.05);
-    border-radius: 8px;
-    padding: 0.5rem;
-    margin: 0.5rem 0;
-    transition: all 0.3s ease;
-  }
-  
-  details:hover {
-    background: rgba(255,111,145,0.1);
-  }
-  
-  details[open] {
-    background: rgba(255,111,145,0.1);
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
+<!-- Animated typing text (supported) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F91&center=true&width=435&lines=Passionate+Developer;Django+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
+
+<!-- Animated wave (supported) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=60&section=footer" />
